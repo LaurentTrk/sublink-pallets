@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "ink/contract",
+    "ink/runtime",
+    "parachain-oracle",
+    "xcm",
+]
